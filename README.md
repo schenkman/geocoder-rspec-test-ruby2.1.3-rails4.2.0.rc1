@@ -1,4 +1,4 @@
-== README
+# README
 
 This project contains a very simple setup to reproduce the rspec test error in ruby 2.1.3 and rails 4.2.0.rc1.
 
